@@ -1,0 +1,33 @@
+{
+  "name": "Route du Café 2025",
+  "classes": [
+    {
+      "nom": "Class40",
+      "logo": "Class40.jpg",
+      "voiliers": [
+        {
+          "nom": "#EMPOWER",
+          "skippers": "Pamela LEE et Jay THOMSON"
+        },
+        {
+          "nom": "ALTRAVANCE OCEAN TERELIAN",
+          "skippers": "Théa KHELIF et Marion ENGELHARD"
+        }
+      ]
+    },
+    {
+      "nom": "Imoca",
+      "logo": "IMOCA.jpg",
+      "voiliers": [
+        {
+          "nom": "#11TH HOUR RACING",
+          "skippers": "Francesca CLAPCICH et Will HARRIS"
+        },
+        {
+          "nom": "4CAD - LA MIE CÂLINE",
+          "skippers": "Arnaud BOISSIÈRES et Benjamin DUTREUX"
+        }
+      ]
+    }
+  ]
+}
