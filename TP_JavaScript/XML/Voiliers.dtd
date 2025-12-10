@@ -1,0 +1,14 @@
+<!ELEMENT Voiliers (mixte,voilier+)>
+    <!ATTLIST Voiliers
+        transat CDATA #REQUIRED
+            >
+    <!ELEMENT Mixte(#PCDATA|cat|geo)>
+    <!ELEMENT Cat(#PCDATA)>
+    <!ELEMENT Voilier (nom,photo,skipper,skipper)>
+        <!ATTLIST Voilier
+                classe CDATA #REQUIRED
+                annee CDATA #REQUIRED>
+    <!ELEMENT nom(#PCDATA)>
+    <!ELEMENT skipper(origine,age)>
+        <!ATTLIST skipper
+                age CDATA #REQUIRED>
